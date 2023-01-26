@@ -1,3 +1,6 @@
+# Introduce Project Tiktok - UI.
+- This's my first project with react js. I cloned a part of TikTok to study and practice following to F8. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
