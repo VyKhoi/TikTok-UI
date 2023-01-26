@@ -1,0 +1,22 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,400;1,500&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+// dat bien
+:root {
+    --primary: #bcff03;
+}
+
+html {
+    font-size: 63%;
+}
+
+body {
+    font-family: cursive;
+    font-size: 1.6rem;
+    background-color: var(--primary);
+    line-height: 1.5;
+    text-rendering: optimizeLegibility;
+}
